@@ -1,4 +1,5 @@
 ***MovieCritic***
+
 Welcome to MovieCritic, a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. This platform allows users to create their own movie list, add reviews, and provide ratings for films.
 
 *Add Movies*: Users can submit their own movies to the platform.
