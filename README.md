@@ -8,6 +8,7 @@ Welcome to MovieCritic, a full-stack application built using the MERN (MongoDB, 
 *MongoDB Database*: All movies and reviews are stored in MongoDB, allowing for persistent data storage.
 
 **Tech Stack**
+
 *Frontend*: React (JavaScript, HTML, CSS)
 
 *Backend*: Node.js with Express.js
